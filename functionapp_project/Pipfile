@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+azure-functions = "==1.9.0"
+azure-cosmos = "==4.2.0"
+azure-cli-core = "==2.34.1"
+bson = "==0.5.10"
+pymongo = "==4.0.2"
+flask = "==1.1.2"
+requests = "==2.23.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"

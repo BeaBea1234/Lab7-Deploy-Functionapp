@@ -1,0 +1,17 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=eventstorageaccount2;AccountKey=dmfdipFNXQpFHmQJrEKwBe4hgw5TII9wyRSTY0fXQ5uKLHYamv25/gLqtfpBV/hGQ6UEuI+UIgRp+ASt+T7Caw==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "MyDbConnection": "mongodb://lab2cosmosdb:QAUk1MHvjnVfFuC6zqpBE3jU8o2ZUlV5JY5HnDvySTPqL5Qw45iduqeKaDE0n715sKNvFL30AugvjfsgN0OJjQ==@lab2cosmosdb.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@lab2cosmosdb@",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=serverlessgroup87bd;AccountKey=XF2AOvql7JCywEm2sfEBwHwiS/dzHT1urMx/JWTP6G/kPFB0r2LpN6RSeAaL9qW2AVLB9GfzIAvA+AStf06Elw==;EndpointSuffix=core.windows.net",
+    "SendGridAPI": "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",  
+    "WEBSITE_CONTENTSHARE": "linux-python-functionappbaed",
+    "AzureWebJobs.myEvent.Disabled": "true",
+    "AzureWebJobs.EventGridTrigger1.Disabled": "false"
+  },
+  "Host": {
+    "LocalHttpPort": 5004
+  }
+}
